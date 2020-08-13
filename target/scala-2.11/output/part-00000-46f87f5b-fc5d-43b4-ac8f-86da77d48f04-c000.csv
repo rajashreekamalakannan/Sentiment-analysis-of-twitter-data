@@ -1,0 +1,6 @@
+Metric,value
+Weighted Precision,0.7921189480050586
+Weighted Recall,0.7100999655291278
+Weighted F Measure,0.7378260218071784
+Weighted True Positive Rate,0.7100999655291278
+Weighted False Positive Rate,0.21188431159503518

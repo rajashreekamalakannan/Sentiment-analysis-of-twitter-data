@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/MS_Study_Materials/Spring2020/BigData/Assignment2/PageRankTwitterAna/"), "pageranktwitterana")...
+[debug] Done updating ProjectRef(uri("file:/D:/MS_Study_Materials/Spring2020/BigData/Assignment2/PageRankTwitterAna/"), "pageranktwitterana")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
