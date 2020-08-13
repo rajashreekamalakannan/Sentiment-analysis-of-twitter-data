@@ -1,0 +1,12 @@
+Twitter Sentiment analysis:
+
+•	Dataset : PageRankTwitterAna\DATA\Tweets.csv (Stored locally for easy access) or https://rk-assignment2.s3.amazonaws.com/Tweets.csv
+•	Souce code : PageRankTwitterAna\src\main\scala\TwitterSentiment.scala
+  JAR file : PageRankTwitterAna\target\scala-2.11\ pageranktwitterana_2.11-0.1.jar
+•	AWS_RESULT : PageRankTwitterAna\AWS_RESULT\TWITTER_RESULT (Stored locally for easy access) or https://rk-assignment2.s3.amazonaws.com/output_twittersentiment/part-00000-23fc906e-042f-41e1-ac2b-7dd9f39bb4e2-c000.csv , https://rk-assignment2.s3.amazonaws.com/output_twittersentiment/_SUCCESS
+Parameters given while running the cluster step in EMR
+•	Main class: None
+•	Arguments: --class TwitterSentiment
+  s3://rk-assignment2/pageranktwitterana_2.11-0.1.jar
+  s3://rk-assignment2/Tweets.csv
+  s3://rk-assignment2/output_twittersentiment
